@@ -4,4 +4,4 @@
 # git clone https://github.com/example/SomeProject
 
 # Example: Install App Center CLI
-npm install -g appcenter-cli
+npm install -g apollo-codegen
